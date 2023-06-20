@@ -1,0 +1,6 @@
+How would you structure the same solution in a modern AWS Cloud environment?
+
+
+Using the AWS services that align with the functionalities required by the code. For example using AWS Lambda to handle API calls and data processing, S3 for data storage, and Amazon RDS for the SQL database.
+
+Look at splitting the code into smaller modules for each specific task to help with code maintance and reusability. 
